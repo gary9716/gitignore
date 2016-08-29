@@ -50,3 +50,4 @@ captures/
 .idea/.name
 .idea/modules.xml
 .idea/runConfigurations.xml
+.idea/*
